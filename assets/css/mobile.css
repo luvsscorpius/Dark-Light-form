@@ -1,0 +1,13 @@
+#login_form {
+    width: 90vw;
+    margin-bottom: 10px;
+}
+
+.input_field input {
+    border: none;
+    background-color: transparent;
+    width: 200px;
+    font-size: 18px;
+    padding: 0px 5px;
+    outline: 0;
+}
